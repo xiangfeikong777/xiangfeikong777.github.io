@@ -36,3 +36,6 @@ Accepted to the student volunteer program at **HRI 2024**!
 
 ### November 1, 2023
 Joined the RARE lab!
+
+### June 2023
+Received a Pathway to Computing Graduate Certificate from University of South Florida Computer Science Department!

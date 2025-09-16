@@ -9,6 +9,12 @@ author_profile: true
 
 ## Latest Updates
 
+### August 25, 2025
+Started the PhD Computer Science program at University of South Florida!
+
+### August 9, 2025
+Graduated with dual degrees: MS Marketing and MS Computer Science from University of South Florida!
+
 ### August 14, 2025
 Awarded the Rada Scholarship in AI and Healthcare for the 2025-2026 school year!
 
@@ -25,7 +31,7 @@ Presented research work at **HRI 2024** conference!
 First paper accepted to the **WYSD workshop at HRI 2024**!
 
 ### January 24, 2024
-Accepted to the student volunteer program at **HRI '24**!
+Accepted to the student volunteer program at **HRI 2024**!
 
 ### November 1, 2023
 Joined the RARE lab!

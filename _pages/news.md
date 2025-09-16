@@ -12,11 +12,12 @@ author_profile: true
 ### August 25, 2025
 Started the PhD Computer Science program at University of South Florida!
 
-### August 9, 2025
-Graduated with dual degrees: MS Marketing and MS Computer Science from University of South Florida!
 
 ### August 14, 2025
 Awarded the Rada Scholarship in AI and Healthcare for the 2025-2026 school year!
+
+### August 9, 2025
+Graduated with dual degrees: MS Marketing and MS Computer Science from University of South Florida!
 
 ### July 8, 2025
 Successfully completed the Graduate Student Mentorship Training!

@@ -9,14 +9,23 @@ author_profile: true
 
 ## Latest Updates
 
-*Coming soon - check back for the latest news and updates!*
+### August 14, 2025
+Awarded the Rada Scholarship in AI and Healthcare for the 2025-2026 school year!
 
-<!-- You can add your news items here in the following format:
+### July 8, 2025
+Successfully completed the Graduate Student Mentorship Training!
 
-### Date: News Title
-Brief description of the news item.
+### June 3, 2025
+Successfully defended my MS thesis!
 
-### Another Date: Another News Title  
-Another news description.
+### March 16, 2024
+Presented research work at **HRI 2024** conference!
 
--->
+### February 26, 2024
+First paper accepted to the **WYSD workshop at HRI 2024**!
+
+### January 24, 2024
+Accepted to the student volunteer program at **HRI '24**!
+
+### November 1, 2023
+Joined the RARE lab!

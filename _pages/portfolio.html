@@ -1,14 +1,18 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Mentoring"
+permalink: /mentoring/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="mentoring-section">
+  <h2>Student Mentoring & Guidance</h2>
+  <p>As a PhD student and Teaching Assistant, I am committed to supporting and mentoring students in their academic and research journey.</p>
+  
+  {% for post in site.mentoring %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
 

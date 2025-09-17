@@ -22,7 +22,7 @@ My main research interest is leveraging augmented reality (AR) for the replicabi
 <!-- Display recent publications -->
 {% assign recent_publications = site.publications | sort: 'date' | reverse | slice: 0, 3 %}
 {% for post in recent_publications %}
-  <div class="publication-item" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #eee;">
+  <div style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #eee;">
     <h3 style="margin-bottom: 0.5em;">
       <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none;">{{ post.title }}</a>
     </h3>
@@ -42,28 +42,28 @@ My main research interest is leveraging augmented reality (AR) for the replicabi
 ## Latest News
 
 <!-- Display recent news items -->
-<div class="news-section">
-  <div class="news-item" style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
+<div>
+  <div style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
     <h4 style="margin-bottom: 0.3em; color: #333;">August 25, 2025</h4>
     <p style="margin-bottom: 0;">Started the PhD Computer Science program at University of South Florida!</p>
   </div>
   
-  <div class="news-item" style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
+  <div style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
     <h4 style="margin-bottom: 0.3em; color: #333;">August 14, 2025</h4>
     <p style="margin-bottom: 0;">Awarded the Rada Scholarship in AI and Healthcare for the 2025-2026 school year!</p>
   </div>
   
-  <div class="news-item" style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
+  <div style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
     <h4 style="margin-bottom: 0.3em; color: #333;">August 9, 2025</h4>
     <p style="margin-bottom: 0;">Graduated with dual degrees: MS Marketing and MS Computer Science from University of South Florida!</p>
   </div>
   
-  <div class="news-item" style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
+  <div style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
     <h4 style="margin-bottom: 0.3em; color: #333;">June 3, 2025</h4>
     <p style="margin-bottom: 0;">Successfully defended my MS thesis!</p>
   </div>
   
-  <div class="news-item" style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
+  <div style="margin-bottom: 1em; padding-bottom: 0.8em; border-bottom: 1px dotted #ccc;">
     <h4 style="margin-bottom: 0.3em; color: #333;">March 16, 2024</h4>
     <p style="margin-bottom: 0;">Presented research work at <strong>HRI 2024</strong> conference!</p>
   </div>

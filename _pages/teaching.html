@@ -7,6 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="teaching-timeline">
+  <h2>Courses Assisted</h2>
+  
+  <div class="timeline">
+    {% assign teaching_by_semester = site.teaching | sort: 'date' | reverse | group_by: 'semester' %}
+    {% for semester_group in teaching_by_semester %}
+      {% for post in semester_group.items %}
+        <div class="timeline-item">
+          <div class="timeline-marker"></div>
+          <div class="timeline-content">
+            <div class="timeline-date">{{ post.semester }}</div>
+            <div class="timeline-title">
+              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+            </div>
+            {% if post.venue %}
+              <div class="timeline-venue">{{ post.venue }}</div>
+            {% endif %}
+            {% if post.excerpt %}
+              <div class="timeline-description">{{ post.excerpt | strip_html | truncate: 150 }}</div>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>

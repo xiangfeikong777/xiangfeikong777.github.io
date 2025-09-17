@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+page_title: "Xiangfei Kong"
 author_profile: true
 redirect_from: 
   - /about/
